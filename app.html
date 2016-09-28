@@ -1,9 +1,3 @@
-<!--**
-* index.html
-* iOS渠道包一键安装跳转页面。
-* Created by pcjbird on 2015-05-28
-* Copyright (c) 2015年 Zero Status. All rights reserved.
-*-->
 <html>
 <head>
 <title>iOS 一键安装</title>
@@ -25,14 +19,6 @@ function doLocation(url)
  document.body.appendChild(a);
  a.click();
 }
-
-function getQueryString(str)
-{
- var rs=new RegExp("(^|)"+str+"=([^&]*)(&|$)","gi").exec(locString),tmp;
- if(tmp=rs)return tmp[2];
- return "";
-}
-
 </script>
 
 </head>
