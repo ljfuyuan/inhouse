@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://101.231.137.227:88/IOS/Unity-iPhone.ipa</string>
+                    <string>http://download.ccjoy.com/yf/client/Unity-iPhone.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
